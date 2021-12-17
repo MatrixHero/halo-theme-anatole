@@ -21,7 +21,10 @@
             <span>Designed by </span>
             <a href="https://www.caicai.me">CaiCai</a>
             <div class="by_halo">
-                <a href="https://github.com/halo-dev/halo" target="_blank">Proudly published with Halo&#65281;</a>
+                <a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">京ICP备20014360号&#65281;</a>
+            </div>
+            <div class="by_halo">
+                版权归Matrixhero所有
             </div>
             <div class="footer_text">
                 <@global.footer_info />
