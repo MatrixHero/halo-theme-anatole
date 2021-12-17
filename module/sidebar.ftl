@@ -21,7 +21,7 @@
             <span>Designed by </span>
             <a href="https://www.caicai.me">CaiCai</a>
             <div class="by_halo">
-                <a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">京ICP备20014360号&#65281;</a>
+                <a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">京ICP备20014360号</a>
             </div>
             <div class="by_halo">
                 版权归Matrixhero所有
