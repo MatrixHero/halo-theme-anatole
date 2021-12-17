@@ -17,15 +17,14 @@
     <#include "social-list.ftl">
     <div class="footer">
         <a target="_blank" href="#">
-            <#-- 不允许修改该主题信息，也不能删除。 -->
-            <span>Designed by </span>
-            <a href="https://www.caicai.me">CaiCai</a>
             <div class="by_halo">
                 <a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">京ICP备20014360号</a>
             </div>
             <div class="by_halo">
                 版权归Matrixhero所有
             </div>
+            <span>Designed by </span>
+            <a href="https://www.caicai.me">CaiCai</a>
             <div class="footer_text">
                 <@global.footer_info />
             </div>
